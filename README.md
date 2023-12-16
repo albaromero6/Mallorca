@@ -62,8 +62,8 @@
 <h2 id="estilo">Estilo de la página</h2>
 <br>
 <h3>Paleta de colores</h3>
-<p>Tono blanco (#White)</p>
-<p>Tonos verdes (rgba(5, 164, 122, 0.932), rgba(20, 210, 159, 0.932), #81d7c0e8, etc.)</p>
+<ul><p>Tono blanco (#White)</p></ul>
+<ul><p>Tonos verdes (rgba(5, 164, 122, 0.932), rgba(20, 210, 159, 0.932), #81d7c0e8, etc.)</p></ul>
 <br>
 <h3>Tipografías</h3>
 <p>BebasNeue-Regular</p>
