@@ -43,6 +43,10 @@
 <img src="./readme-img/pueblos.png" alt="imagen de la sección pueblos" style="width:50%">
 <p>Para esta sección, he usado un grid de tres columnas, incluyendo en todas ellas una card tomada de "Universe.io" de nuevo. Esta sección, tanto las dos siguientes, son totalmente responsives ya que para el tamaño de dispositivos pequeños se colocan en una sola columna y para dispositivos con mayores dimensiones, se colocan ocupando las tres columnas que el ancho permite.</p>
 
+<h3>Calas</h3>
+<img src="./readme-img/calas.png" alt="imagen de la sección calas" style="width:50%">
+<p>Esta seccción es totalmente igual que la anterior. En ambas se puede apreciar como al colocar el ratón sobre la imagen, se crea un efecto hover en el que se muestra sobre un fondo verde con gradiente, un texto con una breve descripción del lugar.</p>
+
 
 <h3>Footer</h3>
 <p>breve explicación </p>
