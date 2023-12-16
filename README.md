@@ -55,9 +55,11 @@
 <img src="./readme-img/galeria.png" alt="imagen de la sección galeria" style="width:50%">
 <p>Para la galería, he obtenido un code snippet de la famosa página "W3Schools". Un slider simple pero dinámico y estético. Consta de 8 fotos diferentes de varios lugares de la isla y con su pie de página para que la persona pueda saber que lugar esta visualizando.</p>
 
-
 <h3>Footer</h3>
-<p>breve explicación </p>
+<img src="./readme-img/footer.png" alt="imagen de la sección footer" style="width:50%">
+<p>En esta última sección he usado un grid de tres columas con una organización distinta a las secciones anteiores. El footer consta de un apartado "siguénos", donde pueden localizarse todos los enlaces a las redes sociales, un apartado para los enlaces que se encuentran también en la barra de navegación, para que sea así más cómodo desplazarse por la web y un apartado con un email de contacto. Además, se incluye un enlace a créditos que abre un modal box, obtenido también de "W3Schools" y que contiene todas las atribuciones a las imagenes y elementos usados en mi página.</p>
+
+
 
 <h2 id="estilo">Estilo de la página</h2>
 <h3>Paleta de colores</h3>
