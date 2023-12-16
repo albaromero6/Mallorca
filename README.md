@@ -85,8 +85,8 @@
 <h2 id="snippets">Code snippets</h2>
 <p>He utilizado los siguientes:</p>
 <ul>
-  <li>Barra de navegación: Tomada de W3Schools "How to" https://www.w3schools.com/howto/default.asp </li>
-  <li>Slider de galería: Tomada de W3Schools "How to" (poner vínculo)</li>
-  <li>Smooth Scroll: Tomada de W3Schools "How to" </li>
+  <li>Barra de navegación: Tomada de W3Schools "How to" ( https://www.w3schools.com/howto/default.asp ) </li>
+  <li>Slider de galería: Tomada de W3Schools "How to" ( https://www.w3schools.com/howto/default.asp )</li>
+  <li>Smooth Scroll: Tomada de W3Schools "How to" ( https://www.w3schools.com/howto/default.asp )</li>
   <li>Cars: Tomada de Universio.io </li>
 </ul>
