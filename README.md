@@ -32,10 +32,8 @@
 </ul>
 
 <h3>Hero Section</h3>
-<img src="./bm-readme/hero.png" alt="imagen de hero section" style="width:50%">
-<p>He utilizado una imagen de fondo tomada de .... que se adapta fácilmente a diferentes dispositivos....<br>
-Sobre ella he colocado un Call to Action que he estilado a partir de ....<br>
-(una breve explicación)</p>
+<img src="./readme-img/hero.png" alt="imagen de hero section" style="width:100%">
+<p>Para esta sección he usado una imagen de fondo tomada de Civitatis, es responsive en todo los tamaños de dispositivos diferentes. Por otro lado, he incluido en su interior un rótulo de texto con el título de mi página y un botón de Call to Action para que las personas puedan pulsar y directamente les lleve a una nueva pestaña donde podrán reservar su próximo viaje.</p>
 
 <h3>Introducción</h3>
 <img src="./bm-readme/intro.png" alt="imagen de hero section" style="width:50%">
