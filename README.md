@@ -1,6 +1,6 @@
 <h1>Memoria de proyecto de fin de evaluación de Lenguajes de Marcas</h1>
 <br>
-<img src="./readme-img/portada.jpg" alt="imagen de hero section" style="width:100%">
+<img src="./readme-img/portada.jpg" alt="imagen de hero section" style="width:100%; height: 45%">
 <h2>MALLORCA</h2>
 <h2>Indice</h2>
 <ul>
