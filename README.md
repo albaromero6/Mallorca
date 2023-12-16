@@ -66,7 +66,12 @@
 <p>Tonos verdes (rgba(5, 164, 122, 0.932), rgba(20, 210, 159, 0.932), #81d7c0e8, etc.)</p>
 <br>
 <h3>Tipografías</h3>
-<p>.....</p>
+<p>BebasNeue-Regular</p>
+<p>Caveat-VariableFont</p>
+<p>HedvigLettersSans</p>
+<p>Mulish-VariableFont</p>
+<p>NotoSerif_Condensed-Medium</p>
+<p>Ubunto-Bold</p>
 <br>
 <h3>Imágenes</h3>
 <p>.....</p>
