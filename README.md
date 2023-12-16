@@ -88,5 +88,5 @@
   <li>Barra de navegación: Tomada de W3Schools "How to" ( https://www.w3schools.com/howto/default.asp ) </li>
   <li>Slider de galería: Tomada de W3Schools "How to" ( https://www.w3schools.com/howto/default.asp )</li>
   <li>Smooth Scroll: Tomada de W3Schools "How to" ( https://www.w3schools.com/howto/default.asp )</li>
-  <li>Cars: Tomada de Universio.io </li>
+  <li>Cars: Tomada de Universio.io  ( https://uiverse.io/cards )</li>
 </ul>
