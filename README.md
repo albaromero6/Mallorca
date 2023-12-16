@@ -51,6 +51,10 @@
 <img src="./readme-img/lugares.png" alt="imagen de la sección lugares" style="width:50%">
 <p>En este caso, también utilizo un grid de tres columnas pero con unas cards con un diseño distinto, también sacadas de "Universe.io". Al igual que el las dos secciones anteriores, son totalmentes responsives y tienen un efecto hover que queda muy estético.</p>
 
+<h3>Galería</h3>
+<img src="./readme-img/galeria.png" alt="imagen de la sección galeria" style="width:50%">
+<p>Para la galería, he obtenido un code snippet de la famosa página "W3Schools. Un slider simple pero dinámico y estético. Consta de 8 fotos diferentes de varios lugares de la isla y con su pié de página para que la persona pueda saber que lugar esta visualizando.</p>
+
 
 <h3>Footer</h3>
 <p>breve explicación </p>
