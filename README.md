@@ -41,7 +41,7 @@
 
 <h3>Pueblos</h3>
 <img src="./readme-img/pueblos.png" alt="imagen de la sección pueblos" style="width:50%">
-<p>Para esta sección he usado un grid de tres columnas, incluyendo en todas ellas una card tomada de "Universe.io" de nuevo. Esta sección tanto las dos siguientes sib totalmente responsives ya que para tamaños de dispositivos pequeños se colocan en una sola columna y para dispositivos con mayores dimensiones, se colocan ocupando las tres columnas que el ancho permite.</p>
+<p>Para esta sección, he usado un grid de tres columnas, incluyendo en todas ellas una card tomada de "Universe.io" de nuevo. Esta sección, tanto las dos siguientes, son totalmente responsives ya que para el tamaño de dispositivos pequeños se colocan en una sola columna y para dispositivos con mayores dimensiones, se colocan ocupando las tres columnas que el ancho permite.</p>
 
 
 <h3>Footer</h3>
