@@ -59,11 +59,10 @@
 <img src="./readme-img/footer.png" alt="imagen de la sección footer" style="width:50%">
 <p>En esta última sección he usado un grid de tres columas con una organización distinta a las secciones anteiores. El footer consta de un apartado "siguénos", donde pueden localizarse todos los enlaces a las redes sociales, un apartado para los enlaces que se encuentran también en la barra de navegación, para que sea así más cómodo desplazarse por la web y un apartado con un email de contacto. Además, se incluye un enlace a créditos que abre un modal box, obtenido también de "W3Schools" y que contiene todas las atribuciones a las imagenes y elementos usados en mi página.</p>
 
-
-
 <h2 id="estilo">Estilo de la página</h2>
 <h3>Paleta de colores</h3>
-<p>.....</p>
+<p>Tono blanco (#White)</p>
+<p>Tonos verdes (rgba(5, 164, 122, 0.932)</p>
 <h3>Tipografías</h3>
 <p>.....</p>
 <h3>Imágenes</h3>
