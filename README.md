@@ -32,18 +32,17 @@
 </ul>
 
 <h3>Hero Section</h3>
-<img src="./readme-img/hero.png" alt="imagen de hero section" style="width:50%">
+<img src="./readme-img/hero.png" alt="imagen de la sección hero" style="width:50%">
 <p>Para esta sección he usado una imagen de fondo tomada de Civitatis, es responsive en todo los tamaños de dispositivos diferentes. Por otro lado, he incluido en su interior un rótulo de texto con el título de mi página y un botón de Call to Action para que las personas puedan pulsar y directamente les lleve a una nueva pestaña donde podrán reservar su próximo viaje.</p>
 
 <h3>Introducción</h3>
-<img src="./readme-img/intro.png" alt="imagen de hero section" style="width:50%">
-<p>Para esta sección he usado un grid de dos columnas, una para el texto y otra para la imagén. Un Diseó que considero simple pero estético. Por otro lado he hecho uso de un botón de "Universe.io" que nos permitirá ir a otra subpágina para poder leer toda la información en caso de que nos interese. De esta forma puedo asegurar que la página principal no quede sobrecargada de texto y vaya acorde con la imagen.</p>
+<img src="./readme-img/intro.png" alt="imagen de la sección introducción" style="width:50%">
+<p>Para esta sección he usado un grid de dos columnas, una para el texto y otra para la imagén. Un Diseño que considero simple pero estético. Por otro lado, he hecho uso de un botón de "Universe.io" que nos permitirá ir a otra subpágina para poder leer toda la información, en caso de que nos interese. De esta forma, puedo asegurar que la página principal no quede sobrecargada de texto y vaya acorde con la imagen.</p>
 
-.......
+<h3>Pueblos</h3>
+<img src="./readme-img/pueblos.png" alt="imagen de la sección pueblos" style="width:50%">
+<p>Para esta sección he usado un grid de tres columnas, incluyendo en todas ellas una card tomada de "Universe.io" de nuevo. Esta sección tanto las dos siguientes sib totalmente responsives ya que para tamaños de dispositivos pequeños se colocan en una sola columna y para dispositivos con mayores dimensiones, se colocan ocupando las tres columnas que el ancho permite.</p>
 
-
-
-<p>y aqui pongo <b>lo que quiera</b></p>
 
 <h3>Footer</h3>
 <p>breve explicación </p>
