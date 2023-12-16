@@ -64,13 +64,15 @@
 <h3>Paleta de colores</h3>
 <p>Tono blanco (#White)</p>
 <p>Tonos verdes (rgba(5, 164, 122, 0.932), rgba(20, 210, 159, 0.932), #81d7c0e8, etc.)</p>
+<br>
 <h3>Tipografías</h3>
 <p>.....</p>
+<br>
 <h3>Imágenes</h3>
 <p>.....</p>
-<h3>Videos</h3>
-<p>.....</p>
-...................
+<br>
+
+
 <h2 id="snippets">Code snippets</h2>
 <p>He utilizado los siguientes:</p>
 <ul>
