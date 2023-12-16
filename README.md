@@ -53,7 +53,7 @@
 
 <h3>Galería</h3>
 <img src="./readme-img/galeria.png" alt="imagen de la sección galeria" style="width:50%">
-<p>Para la galería, he obtenido un code snippet de la famosa página "W3Schools. Un slider simple pero dinámico y estético. Consta de 8 fotos diferentes de varios lugares de la isla y con su pié de página para que la persona pueda saber que lugar esta visualizando.</p>
+<p>Para la galería, he obtenido un code snippet de la famosa página "W3Schools". Un slider simple pero dinámico y estético. Consta de 8 fotos diferentes de varios lugares de la isla y con su pie de página para que la persona pueda saber que lugar esta visualizando.</p>
 
 
 <h3>Footer</h3>
