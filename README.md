@@ -62,16 +62,16 @@
 <h2 id="estilo">Estilo de la página</h2>
 <br>
 <h3>Paleta de colores</h3>
-<ul><p> · Tono blanco (#White)</p></ul>
-<ul><p> · Tonos verdes (rgba(5, 164, 122, 0.932), rgba(20, 210, 159, 0.932), #81d7c0e8, etc.)</p></ul>
+<ul><p>· Tono blanco (#White)</p></ul>
+<ul><p>· Tonos verdes (rgba(5, 164, 122, 0.932), rgba(20, 210, 159, 0.932), #81d7c0e8, etc.)</p></ul>
 <br>
 <h3>Tipografías</h3>
-<p>BebasNeue-Regular</p>
-<p>Caveat-VariableFont</p>
-<p>HedvigLettersSans</p>
-<p>Mulish-VariableFont</p>
-<p>NotoSerif_Condensed-Medium</p>
-<p>Ubunto-Bold</p>
+<ul><p>· BebasNeue-Regular</p></ul>
+<ul><p>· Caveat-VariableFont</p></ul>
+<ul><p>· HedvigLettersSans</p></ul>
+<ul><p>· Mulish-VariableFont</p></ul>
+<ul><p>· NotoSerif_Condensed-Medium</p></ul>
+<ul>p>· Ubunto-Bold</p></ul>
 <br>
 <h3>Imágenes</h3>
 <p>Flickr</p>
