@@ -74,7 +74,12 @@
 <p>Ubunto-Bold</p>
 <br>
 <h3>Imágenes</h3>
-<p>Fickr</p>
+<p>Flickr</p>
+<p>Civatatis</p>
+<p>ElMundo</p>
+<p>AbcMallorca</p>
+<p>ElPaís</p>
+<p>Etc...</p>
 <br>
 
 
