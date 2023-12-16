@@ -47,6 +47,10 @@
 <img src="./readme-img/calas.png" alt="imagen de la sección calas" style="width:50%">
 <p>Esta seccción es totalmente igual que la anterior. En ambas se puede apreciar como al colocar el ratón sobre la imagen, se crea un efecto hover en el que se muestra sobre un fondo verde con gradiente, un texto con una breve descripción del lugar.</p>
 
+<h3>Lugares</h3>
+<img src="./readme-img/lugares.png" alt="imagen de la sección lugares" style="width:50%">
+<p>En este caso, también utilizo un grid de tres columnas pero con unas cards con un diseño distinto, también sacadas de "Universe.io". Al igual que el las dos secciones anteriores, son totalmentes responsives y tienen un efecto hover que queda muy estético.</p>
+
 
 <h3>Footer</h3>
 <p>breve explicación </p>
