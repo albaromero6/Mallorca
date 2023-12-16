@@ -71,7 +71,7 @@
 <ul><p>· HedvigLettersSans</p></ul>
 <ul><p>· Mulish-VariableFont</p></ul>
 <ul><p>· NotoSerif_Condensed-Medium</p></ul>
-<ul>p>· Ubunto-Bold</p></ul>
+<ul><p>· Ubunto-Bold</p></ul>
 <br>
 <h3>Imágenes</h3>
 <p>Flickr</p>
