@@ -82,7 +82,6 @@
 <ul><p>· Etc...</p></ul>
 <br>
 
-
 <h2 id="snippets">Code snippets</h2>
 <p>He utilizado los siguientes:</p>
 <ul>
